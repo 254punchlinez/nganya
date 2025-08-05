@@ -54,6 +54,9 @@ const Header = () => {
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center gap-6">
+          <Link to="/" className="text-sm font-medium hover:text-primary transition-colors">
+            Home
+          </Link>
           <Link to="/cars" className="text-sm font-medium hover:text-primary transition-colors">
             Cars
           </Link>
@@ -137,6 +140,9 @@ const Header = () => {
                   Carsokoni
                 </Link>
                 <Separator />
+                <Link to="/" className="text-lg font-medium hover:text-primary transition-colors">
+  Home
+</Link>
                 <Link to="/cars" className="text-lg font-medium hover:text-primary transition-colors">
                   Cars
                 </Link>

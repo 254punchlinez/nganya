@@ -143,14 +143,14 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-primary" />
                   <div>
                     <h3 className="font-semibold">Call Us</h3>
-                    <p className="text-muted-foreground">+1 (123) 456-7890</p>
+                    <p className="text-muted-foreground">+254700250542</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="h-6 w-6 text-primary" />
                   <div>
                     <h3 className="font-semibold">Visit Us</h3>
-                    <p className="text-muted-foreground">123 Car Lane, Auto City, CA 90210</p>
+                    <p className="text-muted-foreground">Thika Road Highway,Nairobi Kenya</p>
                   </div>
                 </div>
               </div>
