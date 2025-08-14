@@ -327,7 +327,7 @@ const cars = [
     description:
       "An American icon, the Mustang offers thrilling performance and classic muscle car styling. Enjoy the open road with this powerful coupe.",
     images: [
-      "/Images/Ford.jpg",
+      "/Images/Ford1.jpg",
     ],
     features: ["Sport Exhaust", "Recaro Seats", "Track Apps", "Line-Lock"],
   },
