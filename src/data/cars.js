@@ -15,9 +15,9 @@ const cars = [
     description:
       "A reliable and fuel-efficient sedan, perfect for daily commutes and long trips. Features include a spacious interior, advanced safety features, and a smooth ride.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/Toyota Prado TXL 1.jpeg",
+      "/Images/Toyota Prado TXL 2.jpeg",
+      "/Images/Toyota Prado TXL 3.jpeg",
     ],
     features: ["Backup Camera", "Bluetooth", "Adaptive Cruise Control", "Lane Keep Assist"],
   },
@@ -37,9 +37,9 @@ const cars = [
     description:
       "A versatile and family-friendly SUV with excellent fuel economy and a comfortable cabin. Ideal for city driving and weekend adventures.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/Honda Fit 1.jpg",
+      "/Images/Honda Fit 2.jpg",
+      "/Images/Honda Fit 3.jpg",
     ],
     features: ["Sunroof", "Heated Seats", "Apple CarPlay", "Android Auto"],
   },
@@ -59,9 +59,7 @@ const cars = [
     description:
       "A powerful and robust pickup truck, ready for any job or adventure. Known for its towing capacity and durability.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/ford.jpg",
     ],
     features: ["Towing Package", "4x4", "Leather Seats", "Navigation System"],
   },
@@ -81,9 +79,7 @@ const cars = [
     description:
       "A luxurious and sporty sedan offering a dynamic driving experience and premium comfort. Combines elegance with performance.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+     "/Images/BMW.jpg",
     ],
     features: ["Sport Package", "Heated Steering Wheel", "Harman Kardon Sound System", "Parking Sensors"],
   },
@@ -103,9 +99,7 @@ const cars = [
     description:
       "Sophistication meets performance in this elegant sedan. Enjoy a refined interior and cutting-edge technology.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/benz.jpg",
     ],
     features: ["Panoramic Sunroof", "Burmester Sound System", "Ambient Lighting", "Wireless Charging"],
   },
@@ -125,9 +119,7 @@ const cars = [
     description:
       "A premium compact SUV with a comfortable ride, stylish design, and advanced infotainment system. Perfect for urban and suburban life.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/audi.jpg",
     ],
     features: ["Quattro AWD", "Virtual Cockpit", "Bang & Olufsen Sound", "Matrix LED Headlights"],
   },
@@ -147,9 +139,7 @@ const cars = [
     description:
       "The popular electric sedan known for its impressive range, rapid acceleration, and minimalist interior. Experience the future of driving.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/tesla.jpg",
     ],
     features: ["Autopilot", "Panoramic Glass Roof", "15-inch Touchscreen", "Over-the-air Updates"],
   },
@@ -169,9 +159,9 @@ const cars = [
     description:
       "A comfortable and efficient sedan, great for daily commuting. Offers a smooth ride and spacious interior.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+       "/Images/Nissan Note Nismo S 1.jpg",
+      "/Images/Nissan Note Nismo S 2.jpg",
+      "/Images/Nissan Note Nismo S 3.jpg",
     ],
     features: ["Remote Engine Start", "Blind Spot Warning", "Rear Cross Traffic Alert", "Apple CarPlay"],
   },
@@ -191,9 +181,7 @@ const cars = [
     description:
       "A stylish and feature-packed compact SUV with a comfortable ride and modern design. Perfect for families.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/hyundai.jpg",
     ],
     features: ["Digital Key", "Panoramic Sunroof", "Heated and Ventilated Seats", "Bose Premium Audio"],
   },
@@ -213,9 +201,7 @@ const cars = [
     description:
       "A spacious and award-winning three-row SUV, ideal for large families and long road trips. Offers a premium feel and robust performance.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/kia.jpg",
     ],
     features: ["Third-Row Seating", "Harman Kardon Audio", "Head-Up Display", "Highway Driving Assist"],
   },
@@ -235,9 +221,7 @@ const cars = [
     description:
       "A powerful and capable full-size pickup truck, perfect for heavy-duty tasks and off-road adventures. Offers a comfortable ride and advanced tech.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+     "/Images/hero-car.jpg",
     ],
     features: ["Multi-Flex Tailgate", "Advanced Trailering System", "Heated Seats", "Wireless Apple CarPlay"],
   },
@@ -257,9 +241,9 @@ const cars = [
     description:
       "A rugged and versatile wagon-SUV hybrid, known for its standard AWD and excellent safety ratings. Ideal for outdoor enthusiasts.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/Subaru Outback 1.jpg",
+      "/Images/Subaru Outback  2.jpg",
+      "/Images/Subaru Outback  3.jpg",
     ],
     features: ["Symmetrical AWD", "EyeSight Driver Assist", "Roof Rails", "Starlink Multimedia"],
   },
@@ -279,9 +263,9 @@ const cars = [
     description:
       "A stylish and fun-to-drive compact SUV with a premium interior and agile handling. Offers a great balance of comfort and sportiness.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+       "/Images/Mazda Cx3 1.jpeg",
+      "/Images/Mazda Cx3 2.jpeg",
+      "/Images/Mazda Cx3 3.jpeg",
     ],
     features: ["Bose Audio", "Head-Up Display", "Adaptive Front-lighting System", "G-Vectoring Control Plus"],
   },
@@ -301,9 +285,9 @@ const cars = [
     description:
       "A practical and comfortable compact sedan with good fuel economy and a spacious trunk. Ideal for city and highway driving.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/Volkswagen Amarok 1.jpeg",
+      "/Images/Volkswagen Amarok 2.jpeg",
+      "/Images/Volkswagen Amarok 3.jpeg",
     ],
     features: ["Digital Cockpit", "Heated Front Seats", "Blind Spot Monitor", "App-Connect"],
   },
@@ -323,9 +307,7 @@ const cars = [
     description:
       "The iconic off-road SUV, built for adventure and rugged terrain. Offers a unique open-air driving experience.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/jeep.jpg",
     ],
     features: ["4x4", "Removable Roof", "Washable Interior", "Off-Road Tires"],
   },
@@ -345,16 +327,14 @@ const cars = [
     description:
       "An American icon, the Mustang offers thrilling performance and classic muscle car styling. Enjoy the open road with this powerful coupe.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/Ford.jpg",
     ],
     features: ["Sport Exhaust", "Recaro Seats", "Track Apps", "Line-Lock"],
   },
   {
     id: "car-17",
-    make: "Toyota",
-    model: "RAV4",
+    make: "Subaru",
+    model: "Impreza",
     year: 2022,
     price: 30000,
     mileage: 16000,
@@ -367,16 +347,14 @@ const cars = [
     description:
       "A popular compact SUV known for its reliability, fuel efficiency, and spacious cargo area. Great for families and adventurers alike.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/Subaru Impreza WRX STI.jpeg"
     ],
     features: ["Multi-Terrain Select", "JBL Audio System", "Panoramic Moonroof", "Bird's Eye View Camera"],
   },
   {
     id: "car-18",
-    make: "Honda",
-    model: "Civic",
+    make: "Suzuki",
+    model: "Swift Sport",
     year: 2023,
     price: 26000,
     mileage: 7000,
@@ -389,16 +367,15 @@ const cars = [
     description:
       "A stylish and fun-to-drive compact car with excellent fuel economy and a comfortable interior. A great choice for daily commuting.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-    ],
+      "/Images/Suzuki Swift Sport 1.jpeg",
+ "/Images/Suzuki Swift Sport 2.jpeg",
+ "/Images/Suzuki Swift Sport 3.jpeg",    ],
     features: ["Honda Sensing", "Apple CarPlay", "Android Auto", "Bose Premium Sound System"],
   },
   {
     id: "car-19",
-    make: "BMW",
-    model: "X5",
+    make: "Suzuki",
+    model: "Baleno",
     year: 2022,
     price: 60000,
     mileage: 10000,
@@ -411,9 +388,9 @@ const cars = [
     description:
       "A luxurious mid-size SUV offering a blend of performance, comfort, and advanced technology. Perfect for families seeking premium quality.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+      "/Images/Suzuki Baleno 1.jpeg",
+     "/Images/Suzuki Baleno 2.jpeg",
+     "/Images/Suzuki Baleno 3.jpeg",
     ],
     features: [
       "Panoramic Sky Lounge LED Roof",
@@ -424,8 +401,8 @@ const cars = [
   },
   {
     id: "car-20",
-    make: "Mercedes-Benz",
-    model: "GLE",
+    make: "Volkwagen ",
+    model: "Tiguan",
     year: 2023,
     price: 65000,
     mileage: 8000,
@@ -438,9 +415,9 @@ const cars = [
     description:
       "A sophisticated and powerful mid-size SUV with a luxurious interior and advanced safety features. Offers a commanding presence on the road.",
     images: [
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
-      "/placeholder.svg?height=600&width=800",
+    "/Images/Volkswagen Tiguan 1.jpg",
+    "/Images/Volkswagen Tiguan 2.jpg",
+    "/Images/Volkswagen Tiguan 3.jpg",
     ],
     features: [
       "MBUX Infotainment System",

@@ -19,12 +19,7 @@ const Index = () => {
       <main className="flex-grow">
         {/* Hero Section */}
         <section className="relative h-[600px] md:h-[700px] bg-hero-gradient text-primary-foreground flex items-center justify-center overflow-hidden">
-          <img
-            src="/src/assets/hero-car.png"
-            alt="Sleek modern car"
-            className="absolute inset-0 w-full h-full object-cover opacity-30"
-            loading="eager"
-          />
+          
           <div className="relative z-10 text-center px-4 animate-fade-in-up">
             <h1 className="text-5xl md:text-7xl font-extrabold leading-tight mb-4 drop-shadow-lg">
               Find Your <span className="gradient-text">Dream Car</span>
